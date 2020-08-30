@@ -1,2 +1,0 @@
-C:\Users\holma\Desktop\form\Debug\form.exe
-C:\Users\holma\Desktop\form\Debug\form.pdb
