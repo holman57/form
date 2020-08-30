@@ -1,0 +1,9 @@
+# Visual Studio configuration files1
+.vs
+.vs/form/v16/ipch/AutoPCH/f04f7078d3b06ad0/FORM.ipch
+.vs/form/v16/Browse.VC.db
+.vs/form/v16/.suo
+
+# Git configuration
+.gitattributes
+
